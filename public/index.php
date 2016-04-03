@@ -50,8 +50,8 @@
 		// Do anything here, like:
 		echo "Welcome to Slim Town!";
 
-		return $response;
 		// Then return an HTTP response
+		return $response;
 	});
 
 
