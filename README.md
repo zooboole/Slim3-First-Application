@@ -201,8 +201,8 @@ Now let's add the route to our application and see how it goes. Just add te foll
     	// Do anything here, like:
     	echo "Welcome to Slim Town!";
     
-    	return $response;
     	// Then return an HTTP response
+    	return $response;
     });
 
 
@@ -258,8 +258,8 @@ The final code in the `public/index.php` file will look like:
     		// Do anything here, like:
     		echo "Welcome to Slim Town!";
     
-    		return $response;
     		// Then return an HTTP response
+    		return $response;
     	});
     
     
